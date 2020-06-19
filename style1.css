@@ -1,0 +1,48 @@
+.bg-a
+{
+	background-color:green;
+	height:250px;
+	text-align: center;
+	color: white; 
+}
+.bg-b
+{
+	background-color:orange;
+	height:250px; 
+	text-align: center;
+	color: white; 
+}
+.bg-c
+{
+	background-color:skyblue;
+	height:250px; 
+	text-align: center;
+	color: white; 
+}
+.bg-d
+{
+	background-color: blue;
+	height:250px;
+	width:445px; 
+	text-align: center;
+	color: white; 
+}
+.bg-e
+{
+	background-color:red;
+	height:250px;
+	width:445px;  
+	text-align: center;
+	color: white; 
+}
+.bg-f
+{
+	background-color:deeppink;
+	height:500px; 
+	text-align: center;
+	color: white; 
+}
+.body-col
+{
+	/*background-color: #bbb;*/
+}
